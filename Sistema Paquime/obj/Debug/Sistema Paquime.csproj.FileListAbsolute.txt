@@ -1,0 +1,87 @@
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\Sistema Paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.Form1.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\Sistema Paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.Properties.Resources.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\Sistema Paquime\Sistema Paquime\obj\Debug\Sistema Paquime.csproj.GenerateResource.cache
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\Sistema Paquime\Sistema Paquime\obj\Debug\Sistema Paquime.csproj.CoreCompileInputs.cache
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\Sistema Paquime\Sistema Paquime\bin\Debug\Sistema Paquime.exe.config
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\Sistema Paquime\Sistema Paquime\bin\Debug\Sistema Paquime.exe
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\Sistema Paquime\Sistema Paquime\bin\Debug\Sistema Paquime.pdb
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\Sistema Paquime\Sistema Paquime\obj\Debug\Sistema Paquime.exe
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\Sistema Paquime\Sistema Paquime\obj\Debug\Sistema Paquime.pdb
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Google.Protobuf.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\MySql.Data.xml
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema Paquime.csprojAssemblyReference.cache
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema Paquime.csproj.CopyComplete
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.Login.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.Productos.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.Proveedores.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.Compras.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.ventas.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.conectar.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.ctrlproveedores.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\EnvDTE.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\stdole.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\RdlCompile.cache
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\RdlCompile.compiled
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.reportproductos.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.Reportes.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.reporteproveedores.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.reportescompras.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.reportventas.resources
+C:\Users\LUIS BENCOMO\Desktop\escuela\ESTADIAS\sistema paquime\Sistema Paquime\obj\Debug\Sistema_Paquime.ctrlcompras.resources
